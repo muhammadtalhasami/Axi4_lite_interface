@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sim_1/new/axi4_lite_tb.sv,1714593725,systemVerilog,,,,axi4_lite_tb,,,,,,,,
+D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_master.sv,1714665554,systemVerilog,,D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_slave.sv,,axi4_lite_master,,,,,,,,
+D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_slave.sv,1714593814,systemVerilog,,D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_top.sv,,axi4_lite_slave,,,,,,,,
+D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_top.sv,1714594514,systemVerilog,,D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sim_1/new/axi4_lite_tb.sv,,axi4_lite_top,,,,,,,,

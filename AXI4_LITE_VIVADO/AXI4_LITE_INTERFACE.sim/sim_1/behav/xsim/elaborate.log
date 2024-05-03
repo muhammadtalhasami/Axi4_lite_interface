@@ -1,0 +1,17 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 7da746e10eed4bc09a29e00e7be32133 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot axi4_lite_tb_behav xil_defaultlib.axi4_lite_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 2 differs from formal bit length 1 for port M_RRESP [D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_top.sv:50]
+WARNING: [VRFC 10-278] actual bit length 2 differs from formal bit length 1 for port M_BRESP [D:/Users/hp/AXI4_LITE_INTERFACE/AXI4_LITE_INTERFACE.srcs/sources_1/new/axi4_lite_top.sv:59]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.axi4_lite_master
+Compiling module xil_defaultlib.axi4_lite_slave
+Compiling module xil_defaultlib.axi4_lite_top
+Compiling module xil_defaultlib.axi4_lite_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot axi4_lite_tb_behav
