@@ -52,7 +52,7 @@ All five transaction channels use the same VALID/READY handshake process to tran
 ```
 git clone https://github.com/muhammadtalhasami/Axi4_lite_interface
 ```
-**2):** Then run the code
+**2):** Follow this
 
 For Vivado
 ```
