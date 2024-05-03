@@ -45,6 +45,8 @@ All five transaction channels use the same VALID/READY handshake process to tran
 # VERILATOR_WAVEFORM
 ![WhatsApp Image 2024-05-02 at 8 40 30 PM](https://github.com/muhammadtalhasami/Axi4_lite_interface/assets/141629485/8351ce63-f4b5-4364-b332-377676eba8d6)
 
+# SCHEMATIC VIEW
+![axi4 schematic](https://github.com/muhammadtalhasami/Axi4_lite_interface/assets/141629485/bc58e6d9-abd5-4715-a82d-89783e7db706)
 
 # HOW TO USE 
 
