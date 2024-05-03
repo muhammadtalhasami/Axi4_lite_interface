@@ -1,6 +1,5 @@
 MODULE=axi4_lite_top
-# SRC_DIR= src
-# TB_DIR = tb
+
 .PHONY:sim
 sim: waveform.vcd
 
