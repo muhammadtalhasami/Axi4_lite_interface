@@ -1,4 +1,4 @@
-module axi4_lite_top#(
+git module axi4_lite_top#(
 parameter DATA_WIDTH = 32,
 parameter ADDRESS = 32
 )(
