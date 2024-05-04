@@ -75,7 +75,8 @@ make waves
 
 # RESOURCE
 
-For more information on AXI4 Lite Protocol, https://www.realdigital.org/doc/a9fee931f7a172423e1ba73f66ca4081#introduction-to-axi4-lite-advanced-extensible-interface
+For more information on AXI4 Lite Protocol
+[RealDigital](https://www.realdigital.org/doc/a9fee931f7a172423e1ba73f66ca4081)
 
 # CONTRIBUTION
 
