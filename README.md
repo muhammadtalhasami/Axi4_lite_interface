@@ -78,9 +78,10 @@ make waves
 
 . [Sajjad Ahmed](https://github.com/sajjadahmed677)
 
+. [Zain Ali](https://github.com/ZAIN-ALI-02)
+
 . [Ammar Bin Amir](https://github.com/Ammar-Bin-Amir)
 
-. [Zain Ali](https://github.com/ZAIN-ALI-02)
 # RESOURCE
 
 For more information on AXI4 Lite Protocol
