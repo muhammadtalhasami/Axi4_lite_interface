@@ -72,12 +72,22 @@ make
 
 make waves
 ```
+# INSTRUCTORS
 
+. [Zeeshan Rafique](https://github.com/zeeshanrafique23)
+
+. [Sajjad Ahmed](https://github.com/sajjadahmed677)
+
+. [Ammar Bin Amir](https://github.com/Ammar-Bin-Amir)
+
+. [Zain Ali](https://github.com/ZAIN-ALI-02)
 # RESOURCE
 
 For more information on AXI4 Lite Protocol
 [RealDigital](https://www.realdigital.org/doc/a9fee931f7a172423e1ba73f66ca4081)
 
-# CONTRIBUTION
+# CONTRIBUTOR 
+
+. [Hajra Kamran](https://github.com/HajraKamran)
 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
